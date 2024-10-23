@@ -7,7 +7,7 @@ Flutter Razorpay Totalx Module
 Package for razorpay totalxsoftware team
 </p>
 
-![1](https://github.com/totalxsoftwaredevelopers/razorpay_totalxsoftware/assets/logo.png)
+![1](https://github.com/totalxsoftwaredevelopers/razorpay_totalxsoftware/blob/main/assets/logo.png)
 
 ## Usage
 
