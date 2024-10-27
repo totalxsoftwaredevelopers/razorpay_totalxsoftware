@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
 import 'package:uuid/uuid.dart';
 
-Future<String> createRazorpayOrder({
+Future<String> createRazorpayOrderID({
     required num amount,
     required String rzpKey,
     required String razorpayKeySecret,

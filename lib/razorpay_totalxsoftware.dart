@@ -43,7 +43,7 @@ class RazorpayTotalxsoftware {
       if (_isLoading) return;
       _isLoading = true;
       showProgress(context);
-      final orderId = await createRazorpayOrder(
+      final orderId = await createRazorpayOrderID(
         amount: amount,
         rzpKey: rzpKey,
         razorpayKeySecret: razorpayKeySecret,
