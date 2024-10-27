@@ -1,6 +1,6 @@
 name: razorpay_totalxsoftware
 description: "RazorpayTotalxsoftware is a Flutter package for quick and easy Razorpay integration with optional Firebase transaction logging. Perfect for smooth in-app payments."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/totalxsoftwaredevelopers/razorpay_totalxsoftware
 
 environment:
@@ -34,7 +34,8 @@ flutter:
 
   plugin:
     platforms:
-      web:
+    android:
+    ios:
 
 screenshots:
   - description: "www.totalx.in"
